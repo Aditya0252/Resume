@@ -9,3 +9,6 @@ python-docx==1.1.0
 docx2pdf==0.1.8  # Optional: only if you need to convert .docx to .pdf
 
 python-dotenv==1.0.1
+pdfplumber
+spacy
+nltk
