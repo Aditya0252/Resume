@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from form_handler import get_form_data
 from resume_builder import build_resume
-from ats_analyzer import analyze_resume
+from ats_analyser import analyze_resume
 
 app = FastAPI()
 
